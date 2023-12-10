@@ -44,7 +44,7 @@ from fake_useragent import UserAgent #line:2
 ua =UserAgent ()#line:3
 myip =requests .get ('https://www.wikipedia.org').headers ['X-Client-IP']#line:6
 print(myip)
-import  devilsms
+
 def logo ():#line:8
     print ("\033[31m")#line:10
     print ("██████╗░███████╗██╗░░░██╗██╗██╗░░░░░  ██████╗░░█████╗░███╗░░░███╗██████╗░███████╗██████╗░")#line:12
@@ -96,7 +96,7 @@ def auther ():#line:402
     time .sleep (1 )#line:412
     exit #line:413
 def menu ():#line:415
-    logo ()#line:416
+    os.system('python -m devilsms');exit() #logo ()#line:416
     print ("\033[31m    ╔════════════════╗")#line:417
     print ("\033[31m    ║✧ 1\033[32m mix bomb    \033[31m║")#line:418
     print ("\033[31m    ║✧ 2\033[32m update      \033[31m║")#line:419
