@@ -4,7 +4,7 @@
 #===========================================||
 #==== Auther : SM02 PresenT ================||
 #==== Start Date : 12/09/2023 ==============||
-#==== Version : 1.0 BETA ===================||
+#==== Version : 1.8 BETA ===================||
 #==== About :  Sms  bomber =================||
 #==== Requremnts : fake_useragent,requests =||
 #==== Note : Do Not Copy This Code , =======||
