@@ -39,7 +39,7 @@ SOFTWARE.
 '''
 print(license)
 
-iimport requests ,json ,time #line:1
+import requests ,json ,time #line:1
 from fake_useragent import UserAgent #line:2
 ua =UserAgent ()#line:3
 myip =requests .get ('https://www.wikipedia.org').headers ['X-Client-IP']#line:6
