@@ -113,10 +113,10 @@ def spam ():#line:378
         if len (str (O0000O0O000OOOOOO ))==10 :#line:383
             if O0O0O0O0OO00O00OO >0 :#line:384
                 print ("\nBombing Started\nCtrl + C to close")#line:385
-                smsm (number =O0000O0O000OOOOOO ,repeat =O0O0O0O0OO00O00OO )#line:386
+                smsm (number =O0000O0O000OOOOOO ,repeat = str(O0O0O0O0OO00O00OO) )#line:386
             else :#line:387
                 print ("\nBombing Started\nCtrl + C to close")#line:388
-                smsm (number =O0000O0O000OOOOOO ,repeat =1 )#line:389
+                smsm (number =O0000O0O000OOOOOO ,repeat ='1' )#line:389
         else :#line:391
             print ("Input should be exactly 10 digit.")#line:392
             time .sleep (1 )#line:393
