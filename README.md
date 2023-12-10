@@ -3,6 +3,8 @@
 ## ✨ Features
 
 - sms bombing
+- 13 api
+- new api adding  soon
 
 ## 💁‍♀️ How to use
 
