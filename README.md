@@ -2,7 +2,7 @@
 
 ## ✨ Features
 
-- Python
+- sms bombing
 
 ## 💁‍♀️ How to use
 
